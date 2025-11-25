@@ -1,0 +1,27 @@
+export const initialRequiredFields: Record<string, boolean> = {
+  sku: true,
+  name: true,
+  active: false,
+  description: false,
+  qty: true,
+  category: false,
+  brand: false,
+  main_image: false,
+  alt_images: false,
+  parent_id: false,
+  subtitle: false,
+  promo_start: false,
+  promo_end: false,
+  promo_price: false,
+  cost_price: true,
+  seo_title: false,
+  seo_description: false,
+  rrp: false,
+  store_price: false,
+  width: false,
+  length: false,
+  cubic: false,
+  height: false,
+};
+
+export const getInitialRequiredFields = () => ({ ...initialRequiredFields });

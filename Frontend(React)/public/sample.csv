@@ -1,0 +1,4 @@
+sku,name,category,brand,qty,parent_sku,main_image,alt_images,option1_name,option1_value,option2_name,option2_value,option3_name,option3_value,cost_price
+,,,,,,,,,,,,,,
+TSHIRT-001,T-Shirt,Apparel,BrandX,0,,,,,,,,,,         
+TSHIRT-001-RED-M,T-Shirt,Apparel,BrandX,50,TSHIRT-001,,,color,red,size,l,material,cotton,56
