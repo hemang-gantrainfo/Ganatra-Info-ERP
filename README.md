@@ -61,16 +61,16 @@ It provides:
 ## 🧪 Demo
 
 ### 🔐 Login Page
-<img src="demo/LoginPage.png" alt="Login Page" width="400" />
+<img src="demo/LoginPage.png" alt="Login Page" width="500" />
 
 ### 📊 Dashboard
-<img src="demo/Dashboard.png" alt="Dashboard" width="400" />
+<img src="demo/Dashboard.png" alt="Dashboard" width="500" />
 
 ### 📦 Products Page
-<img src="demo/ProductPage.png" alt="Products Page" width="400" />
+<img src="demo/ProductPage.png" alt="Products Page" width="500" />
 
 ### 📝 Orders Page
-<img src="demo/OrderPage.png" alt="Orders Page" width="400" />
+<img src="demo/OrderPage.png" alt="Orders Page" width="500" />
 
 ---
 
