@@ -76,10 +76,9 @@ It provides:
 
 ## 🔐 Demo Login Credentials
 
-**URL:** https://erp.ganatrainfo.com
+**URL:** https://erp.ganatrainfo.com  
 **Email:** demo@example.com  
 **Password:** Demo@123
-
 
 ## 🛠️ Tech Stack
 
