@@ -81,7 +81,6 @@ cd Ganatra-Info-ERP
 
 ## 📁 Project Structure
 
-``text
 Ganatra-Info-ERP/
  ├── frontend/        # React-based admin panel
  └── backend/         # Laravel-based API
