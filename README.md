@@ -58,6 +58,8 @@ It provides:
 - **Delete Users**  
   Deactivate or delete user accounts.
 
+---
+
 ## 🧪 Demo
 
 ### 🔐 Login Page
@@ -80,6 +82,8 @@ It provides:
 **Email:** demo@example.com  
 **Password:** Demo@123
 
+---
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** React (JavaScript)  
@@ -90,92 +94,26 @@ It provides:
 
 ---
 
-## 📦 Getting Started
+## ⚠️ Important Notice
 
-### 1. Clone the Repository
+### ❗ This project is for **demo purpose only**.
 
-```bash
-git clone https://github.com/hemang-gantrainfo/Ganatra-Info-ERP.git
-cd Ganatra-Info-ERP
+- The code in this repository is **not complete**.  
+- Features may not work exactly as shown in the demo.  
+- If you clone or download this repository, it **will not work properly**.
 
+If you want:
 
-## 📁 Project Structure
+- A fully working version  
+- A customized ERP  
+- Ecommerce integrations  
+- Product/Order/User management modules  
 
-Ganatra-Info-ERP/
- ├── frontend/        # React-based admin panel
- └── backend/         # Laravel-based API
+👉 **Please contact our team:**  
+📧 support@ganatrainfo.com  
+🌐 https://ganatrainfo.com  
 
-cd backend
-composer install
-cp .env.example .env
-php artisan key:generate
+We will help you build the same system for your business needs.
 
-⚙️ Backend Setup (Laravel)
+---
 
-cd backend
-composer install
-cp .env.example .env
-php artisan key:generate
-
-## Update .env with your database and integration credentials:
-
-APP_NAME="Inventory, Orders & User Management System"
-APP_ENV=local
-APP_DEBUG=true
-APP_URL=http://localhost:8000
-
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=your_database
-DB_USERNAME=your_username
-DB_PASSWORD=your_password
-
-# Maropost
-MAROPOST_API_KEY=your_maropost_api_key
-MAROPOST_BASE_URL=your_maropost_base_url
-
-# Shopify
-SHOPIFY_API_KEY=your_shopify_api_key
-SHOPIFY_API_SECRET=your_shopify_api_secret
-SHOPIFY_STORE_DOMAIN=yourshop.myshopify.com
-
-
-Run migrations (and seed if required):
-
-php artisan migrate
-php artisan db:seed 
-
-Start the Laravel development server:
-
-php artisan serve
-
-## Default URL Backend:
-http://localhost:8000
-
-
-🖥️ Frontend Setup (React)
-
-cd frontend
-npm install
-# or
-yarn install
-
-Create .env in frontend:
-
-REACT_APP_API_URL=http://localhost:8000/api
-REACT_APP_ENV=development
-
-Run the React development server:
-
-npm start
-# or
-yarn start
-
-## Default URL Frontend:
-http://localhost:3000
-
-Build production bundle:
-
-npm run build
-# or
-yarn build
