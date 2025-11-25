@@ -96,21 +96,45 @@ It provides:
 
 ## ⚠️ Important Notice
 
-### ❗ This project is for **demo purposes only**.
+### ❗ This project is for **demo purposes only**
 
-- The code in this repository is **not complete**.  
-- Some features may not work exactly as shown in the demo.  
-- If you clone or download this repository, it **will not work fully**.
+This repository contains a **showcase version** of our Inventory, Orders & User Management System.  
+Please note the following before using or cloning the project:
 
-If you want:
+- The codebase is **not fully implemented** and several modules are incomplete.  
+- Some features shown in the demo are **mocked or partially functional**.  
+- Third-party integrations (Shopify, Maropost, etc.) are **disabled** in this demo version.  
+- API endpoints, authentication flow, and automation modules are **stripped down** or contain placeholder logic.  
+- Database migrations and seeders are **not fully included**, so the system will not run out-of-the-box.  
 
-- A fully working version  
-- A customized ERP  
-- Ecommerce integrations  
-- Product / Order / User management modules  
+Because of these limitations:
 
-👉 **Please contact our team:**  
-📧 contact@ganatrainfo.com  
-🌐 https://ganatrainfo.com  
+➡️ **If you clone or download this repository, it will *not* work as a production-ready system.**  
+➡️ **Do not use this version for live or client projects.**
 
-We will help you build the same system tailored to your business needs.
+---
+
+## 🔧 Need a Fully Functional System?
+
+If you require:
+
+- A complete, production-ready ERP  
+- Customized features tailored to your business  
+- Deep ecommerce integrations (Maropost, Shopify, WooCommerce, etc.)  
+- Automated product, order, and user workflows  
+- Supplier syncing and advanced reporting  
+- Role-based access control, permissions, and logging  
+- A scalable architecture for thousands of products or orders  
+
+Our team can build a **fully working, secure, optimized, and enterprise-grade version** of this system for you.
+
+---
+
+## 📞 Contact Us
+
+👉 **Get in touch with our development team:**  
+📧 **contact@ganatrainfo.com**  
+🌐 **https://ganatrainfo.com**
+
+We will help you build a **custom ERP** tailored to your exact business operations, with all modules fully functional and ready for real-world use.
+
