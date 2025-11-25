@@ -74,7 +74,7 @@ It provides:
 
 ### 1. Clone the Repository
 
-``bash
+```bash
 git clone https://github.com/hemang-gantrainfo/Ganatra-Info-ERP.git
 cd Ganatra-Info-ERP
 
