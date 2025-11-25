@@ -61,7 +61,7 @@ It provides:
 ---
 ## 🧪 Demo
 
-![Demo Screenshot](/mnt/data/426f6d4c-8839-4b8e-9c6b-0428973b5892.png)
+![Demo Screenshot](demo/LoginPage.png)
 
 ---
 
